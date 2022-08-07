@@ -4,7 +4,6 @@ Also, i like to design machines and applications...
 ![I am a bang & olufsen specialist by trade since 2005, i do small scale IT for about 10y, and am also a maker and regular in the #3D printing discord since 2018.
 Also, i like to design machines and applications...](https://github.com/eponra/eponra/blob/main/banner.png)
 
-Thuis 
 
 Skills: Fusion 360 / MS360 / VMWare (Horizon View, Fusion) / etc / HTML / CSS
 
