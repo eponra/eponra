@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is eponra!
-#### I am a bang & olufsen specialist by trade since 2005, i do small scale IT (less than 50 workplaces) for about 15y, and am also a maker and regular in the #3D printing discord since 2018.
+#### I was a bang & olufsen specialist for 17y, i did small scale IT (less than 50 workplaces) during that time for the last 15y, and am now full-time IT. I am also a maker and regular in the #3D printing discord since 2018.
 Also, i like to design, engineer and build machines and applications...
 ![I am a bang & olufsen specialist by trade since 2005, i do small scale IT for about 10y, and am also a maker and regular in the #3D printing discord since 2018.
 Also, i like to design, engineer and build machines and applications...](https://github.com/eponra/eponra/blob/main/banner.png)
