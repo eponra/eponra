@@ -15,7 +15,7 @@ Now a year has gone by, and a company named Mellow, from where i also like to so
 is running Flipper ofc; they could do rrf, but we will see
 - is running a 2.8" touchscreen at the bottom, and a 1.3" touchscreen at the hotend for quick filament changes and quick heating
 https://youtu.be/e8mjv9e-qzc (you see two prototypes here at TCT Asia)
-[https://youtu.be/q5g9Ud7NPts](https://youtu.be/q5g9Ud7NPts?si=8peJaGWEXCFL_qLP&t=52) (starting at the timestamp you see one prototype again)
+https://youtu.be/q5g9Ud7NPts?si=8peJaGWEXCFL_qLP&t=52 (starting at the timestamp you see one prototype again)
 
 
 
