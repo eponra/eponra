@@ -8,15 +8,9 @@ I was lately featured on an article on all3dp, which im very proud of:
 
 https://all3dp.com/4/check-out-the-collapsible-compact-flatpack-3d-printer/ 
 
-Now a year has gone by, and a company named Mellow, from where i also like to source all my parts from but have no affiliation with whatsoever, has decided to make a printer based on my design:
-- apparently called Mellow M1 (could be a working title though)
-- crowdfound starts probably in november or decembre
-- featuring a new board which is basically a Fly D5 and a Fly Pi Lite v2 married together on the size of the D5 (im very much looking forward to that board, apart from the cnc'ed version of my design
-is running Flipper ofc; they could do rrf, but we will see
-- is running a 2.8" touchscreen at the bottom, and a 1.3" touchscreen at the hotend for quick filament changes and quick heating
-https://youtu.be/e8mjv9e-qzc (you see two prototypes here at TCT Asia)
-https://youtu.be/q5g9Ud7NPts?si=8peJaGWEXCFL_qLP&t=52 (starting at the timestamp you see one prototype again)
-
+Now a few years have gone by, and a company named Mellow has decided to make a printer based on my design:
+- Mellow M1 on aliexpress https://a.aliexpress.com/_EHAE37a
+(im in no way or form affiliated with mellow, this is also not an affiliation link)
 
 
 Skills: Fusion 360 / MS365 / VMWare (Horizon View, Fusion) / Citrix / etc / HTML / CSS
