@@ -15,7 +15,7 @@ Now a few years have gone by, and a company named Mellow has decided to make a p
 
 Skills: Fusion 360 / MS365 / VMWare (Horizon View, Fusion) / Citrix / etc / HTML / CSS
 
-- 🔭 I’m currently working on flatpack 
+- 🔭 I’m currently working on eInk´s and RLCD´s 
 - 🌱 I’m currently learning to relearn everything i forgot about IT 
 - 💬 Ask me about anything, but politics 
 - 📫 How to reach me: [mail](mailto:eponra@gmail.com) or at the 3D  Printing Discord 
